@@ -1,0 +1,545 @@
+Squier by Fender Stratocaster Guitar and Controller — Rock Band 3
+Source: ManualsLib manual 1066813 (text extracted from HTML viewer)
+========================================================================
+
+--- Page 1 ---
+The world's first electric guitar that's also
+an officially licensed Rock Band™ 3 video
+game controller
+• Compatible with the Pro mode of all
+Rock Band™ 3 game systems when used with the
+Mad Catz® MIDI PRO-Adaptor™ (sold separately)
+• Position-sensing fingerboard turns your
+gameplay into real musical performances
+• Use as a MIDI controller with
+your favorite sequencer and
+recording software
+Gameplay with Rock Band™ 3 requires
+Mad Catz® MIDI PRO-Adaptor™
+(sold separately)
+--- Page 2 ---
+2
+Introduction
+3
+Features
+4
+Video Game and MIDI Connections
+5
+Guitar Amp Connection and Use
+6
+Video Game and Midi Use
+9
+FAQ/Problems and Solutions
+11
+Proper Care
+11
+Proper Setup
+15
+Service/Warranty
+--- Page 3 ---
+Congratulations
+on your purchase of the Squier® by Fender® Stratocaster® Guitar and
+Controller.
+Fender, the name synonymous with rock 'n' roll, brings you the world's first electric guitar that
+is also an officially licensed Rock Band™ 3 video game controller. Blending state-of-the-art
+gaming and guitar technology with the authenticity of Fender design and engineering, the
+Squier by Fender Stratocaster Guitar and Controller is created for musicians and gamers alike
+and rocks both worlds—whether plugged into a guitar amp or into a video game console.
+Designed for the Rock Band™ 3 Pro mode, your new Squier by Fender Stratocaster Guitar
+and Controller elevates the gaming experience to the level of real music making by letting
+you play the actual notes and chords to your favorite songs while racking up high scores.
+Its position-sensing fingerboard responds to your touch, turning your gameplay into real
+performances.
+The Squier by Fender Stratocaster Guitar and Controller is a full-size electric guitar loaded with
+quality features such as a contoured wood body, maple neck, steel strings, enclosed tuners,
+adjustable bridge and custom bridge pickup. Plug into your favorite guitar amplifier and turn it
+up, or use it as a MIDI controller in your home recording studio.
+If you're not already a guitarist, you soon will be. If you're already a guitarist, you'll be a better
+one. The Squier by Fender Stratocaster Guitar and Controller is compatible with the Wii™,
+Xbox 360™ and PlayStation™ 3 systems. When used as a controller for Rock Band™ 3, the Mad
+Catz® MIDI PRO-Adaptor™ (sold separately) is required. Be sure to get the proper adaptor for
+your console.
+In this manual, you'll find an overview of your Squier by Fender Stratocaster Guitar and
+Controller's features, use as a guitar, use as a game controller, general care, and service and
+warranty information.
+So read on, and remember: Don't just play games—play guitar.
+[18]
+[2]
+--- Page 4 ---
+Squier® by Fender® Stratocaster®
+Guitar and Controller
+Enclosed Tuners
+Headstock
+Rock Band™ 3 MIDI PRO-ADAPTER for Wii™
+Mad Catz® SKU# RB3 96071
+Rock Band™ 3 MIDI PRO-ADAPTER for Xbox 360™
+Neck and 22-fret
+Mad Catz® SKU# RB3 98071
+position-sensing
+Rock Band™ 3 MIDI PRO-ADAPTER for PlayStation® 3
+fingerboard
+Mad Catz® SKU# Sku RB3 97071
+Mad Catz® MIDI PRO-Adaptor™
+REQUIRED FOR GAMEPLAY
+SOLD SEPERATELY BY MAD CATZ®
+On/Off Switch
+Battery Compartment
+(3 AA batteries included)
+Truss Rod
+Adjustment
+Strap Button
+(side of neck)
+Green Button
+Red Button
+BACK OF GUITAR
+Yellow Button
+Blue Button
+String Mute
+Back Button
+Pickguard
+Volume Knob
+Pickup
+Start Button
+Indicator LEDs
+Contoured Body
+4-way Navigation
+Adjustable Bridge
+pad
+5-Pin MIDI connector
+(side of body)
+[3]
+[17]
+Recessed 1/4" Output Jack
+Strap Button
+--- Page 5 ---
+Rock Band™ 3 Gameplay
+When used for Rock Band™ 3 Pro mode gameplay, the Squier® by Fender® Stratocaster®
+Guitar and Controller connects to your Wii™, Xbox 360™ or PlayStation™ 3 video game
+console using the Mad Catz® MIDI PRO-Adaptor™ (sold separately).
+The diagram below illustrates the proper connection to the gaming system:
+Guitar to Mad Catz® MIDI PRO-Adaptor™
+(sold separately)
+Use as a MIDI controller
+To use the Squier by Fender Stratocaster Guitar and Controller as a MIDI controller for
+sequencers and recording software, the diagram below illustrates proper connection:
+Guitar MIDI connector
+Guitar to MIDI controller to laptop computer
+[18]
+[4]
+--- Page 6 ---
+In addition to gameplay and MIDI use, what makes your Squier® by Fender® Stratocaster®
+Guitar and Controller so revolutionary is that it's also a fully functional electric guitar that can
+be played on its own through any guitar amplifier.
+Simply plug one end of a standard guitar cable into the Squier by Fender Stratocaster Guitar
+and Controller's recessed ¼" output jack, and plug the other end into the amplifier, just as you
+would with any electric guitar (see the diagram below).
+Guitar to Amp Connection
+When played through a guitar amplifier, it is not necessary to engage the string mute or to turn
+the Squier by Fender Stratocaster Guitar and Controller on using the rear power switch. Just
+plug it in, turn it up and start playing.
+[5]
+[17]
+--- Page 7 ---
+Rock Band™ 3 Gameplay
+To use the Squier® by Fender® Stratocaster® Guitar and Controller with Rock Band™ 3, please
+refer to the Rock Band™ 3 user manual and Mad Catz® MIDI PRO-Adaptor™ instructions. Note
+that for Rock Band™ 3 gameplay, the string mute should be engaged (by pressing on it so
+that it pops up and dampens the strings), and the Squier by Fender Stratocaster Guitar and
+Controller must be turned on via the rear power switch.
+MIDI Use
+In addition to Rock Band™ 3 gameplay capability, the Squier by Fender Stratocaster Guitar
+and Controller is MIDI-enabled, which means that it can be connected to MIDI synthesizers
+and that it can be used for recording on a computer.
+MODES
+There are two modes of operation for MIDI use—NORMAL and SYNTH. Toggle between these
+two modes using the Start button, located near the volume knob and closest to the strings.
+In NORMAL mode, the Squier by Fender Stratocaster Guitar and Controller generates what
+are called "MIDI note-on events," which means that a signal is produced when the strings are
+strummed. NORMAL mode use is indicated by the illumination of the first of the four LEDs on the
+pickguard, as seen in the diagram below:
+1st LED ON
+In SYNTH mode, the Squier by Fender Stratocaster Guitar and Controller generates what are
+called "MIDI note-on/offs," which means that a signal is produced when the strings are fretted
+and released (rather than strummed). SYNTH mode use is indicated by the blinking of the first
+of the four LEDs on the pickguard, as seen in the diagram below:
+1st LED BLINKING
+[18]
+[6]
+--- Page 8 ---
+PROGRAM CHANGES
+The Green and Red buttons on the pickguard are used to send "program change up/down"
+messages in order to change sounds. On startup, the default program is "27," which is the
+general MIDI program for "Electric Guitar (clean)."
+OCTAVE CHANGES
+The Yellow and Blue buttons on the pickguard are used to transpose MIDI notes up or down by
+one octave. On startup, the low E string is set to E2.
+MIDI PITCHBEND
+To toggle the MIDI pitchbend, first press and hold the Back Button and then press the Yellow
+Button. The third of the 4 LEDs will illuminate to indicate Pitchbend is enabled (see diagram
+below).
+←
+PRESS
++YELLOW WHEN 3rd LED IS ON
+Pitchbend is controlled by the angle of the neck, as seen in the three diagrams below:
+NECK STRAIGHT OUT (CC Value = 0)
+NECK AT NORMAL POSITION (CC Value = 64)
+NECK UP (CC Value = 127)
+[7]
+[17]
+--- Page 9 ---
+MIDI EXPRESSION CONTROL
+To toggle the MIDI expression control, first press and hold the Back Button and then press the
+Blue Button. The fourth of the 4 LEDs will illuminate to indicate Expression Control is enabled
+(see diagram below).
+←
+PRESS
++BLUE WHEN 4th LED IS ON
+Expression output is controlled by the angle of the Squier® by Fender® Stratocaster® Guitar
+and Controller's body, as seen in the three diagrams below:
+PICKUP DOWN
+PICKUP PARALLEL TO PLAYER
+PICKUP UP
+(CC Value = 0)
+(CC Value = 64)
+(CC Value = 127)
+MIDI PANIC
+Simultaneously pressing the Start and Back buttons cancels all notes.
+PRESS ← + → SIMULTANEOUSLY
+[18]
+[8]
+--- Page 10 ---
+Q: Is the Squier® by Fender® Stratocaster® Guitar and Controller compatible with Rock
+Band™ 2 or The Beatles: Rock Band™?
+A: No. It is only compatible with Rock Band™ 3.
+Q: Can the Squier by Fender Stratocaster Guitar and Controller be used in the Standard
+mode of Rock Band™ 3?
+A: No. It can only be used in Pro mode to play guitar parts.
+Q: Is the Squier by Fender Stratocaster Guitar and Controller wireless? How do I connect it to
+Rock Band™ 3?
+A: It is not wireless; it must be connected to a gaming console using the Mad Catz® MIDI
+PRO-Adaptor™ required for your gaming system (see page 4 of this manual for connection
+information).
+Q: Do I need to properly tune the Squier by Fender Stratocaster Guitar and Controller in order
+to play Rock Band™ 3?
+A: No, but proper tuning is recommended nonetheless. If tuning is not possible, a good rule of
+thumb is to simply tighten the strings so that they do not touch the frets.
+Q: Should I use a guitar pick when playing Rock Band™ 3?
+A: Yes. We recommend using a pick (sold separately) for best performance.
+Q: Why does the Squier by Fender Stratocaster Guitar and Controller have a string mute? Do
+I need to use it when playing Rock Band™ 3?
+A: The string mute helps stabilize the signal sent to the game console. And yes, it should be
+engaged when playing Rock Band™ 3.
+Q: Should I engage the string mute when playing the Squier by Fender Stratocaster Guitar
+and Controller through a guitar amp?
+A: No.
+Q: Can I connect the Squier by Fender Stratocaster Guitar and Controller to a guitar amp
+while I'm using it to play Rock Band™ 3?
+A: Yes, but if you disengage the string mute to get a better amp sound, you'll lose points in the
+game.
+Q: Can I bend notes when playing Rock Band™ 3?
+A: You can, but bending notes is not recommended because the game won't properly detect
+it.
+Q: What are the four LEDs on the pickguard for?
+A: They're used in MIDI mode to indicate various MIDI functions, such as Pitchbend and
+Expression Control.
+Q: How do I trigger Overdrive when playing Rock Band™ 3?
+A: Overdrive is triggered by tilting the neck up, pressing the Back button or by pressing the
+Overdrive button on the Mad Catz® MIDI PRO-Adaptor™.
+Q: Will triggering Overdrive change the sound of the Squier by Fender Stratocaster Guitar
+and Controller's audio output?
+A: No. Triggering Overdrive is a Rock Band™ 3 function only.
+[17]
+[9]
+--- Page 11 ---
+PROBLEMS AND SOLUTIONS
+Problem: The game doesn't recognize my Squier® by Fender® Stratocaster® Guitar and
+Controller.
+Solution: Make sure the Squier by Fender Stratocaster Guitar and Controller is properly
+connected to the Mad Catz® MIDI PRO-Adaptor™, and that the Mad Catz® MIDI PRO-
+Adaptor™ is properly connected to the game console.
+Problem: My Squier by Fender Stratocaster Guitar and Controller shows up as a drum in the
+game.
+Solution: Make sure that the "Instrument Select Switch" on the Mad Catz® MIDI PRO-Adaptor™
+is set to "G" for "guitar."
+Problem: My Squier by Fender Stratocaster Guitar and Controller shows up as a keyboard in
+the game.
+Solution: Again, make sure that the "Instrument Select Switch" on the Mad Catz® MIDI PRO-
+Adaptor™ is set to "G" for "guitar."
+Problem: The game is asking for a microphone, but I don't want to be the singer.
+Solution: This happens because when a stock controller is connected to the console, the
+game will look for a microphone (the controller is used to adjust the vocalist's settings). Make
+sure the Squier by Fender Stratocaster Guitar and Controller is properly connected to the Mad
+Catz® MIDI PRO-Adaptor™, and that the Mad Catz® MIDI PRO-Adaptor™ is properly connected
+to the game console.
+Problem: The MIDI Input Indicator on the Mad Catz® MIDI PRO-Adaptor™ is flashing an
+"S.O.S." message. Why?
+Solution: This happens because the Mad Catz® MIDI PRO-Adaptor™ is recognizing the
+absence of MIDI signal input. The message will stop as soon as the Squier by Fender
+Stratocaster Guitar and Controller is connected.
+Problem: When I pluck a string, sometimes the note does not score and my streak is broken.
+Solution: Make sure the string mute is engaged and is properly dampening the strings.
+Unmuted strings can miss notes and break gameplay streaks.
+[10]
+[18]
+--- Page 12 ---
+Proper Care of Your Squier® by Fender® Stratocaster® Guitar and Controller
+Your Squier by Fender Stratocaster Guitar and Controller is precision-crafted to give you years
+of exciting gameplay and musical enjoyment. As with all musical instruments—electric guitars
+in particular—occasional maintenance will go a long way toward keeping it in great condition
+for many years to come. Since your Squier by Fender Stratocaster Guitar and Controller works
+as a fully functional electric guitar, here are a few tips for proper care:
+•Keep it clean. Dirt, dust, sweat, skin oil, smoke and other accumulating impurities can
+prematurely age a guitar's finish and hardware. Wipe the strings, neck, fretboard and
+bridge often with a lint-free cloth. Do not use liquid cleaners on the neck and fretboard,
+since liquids can adversely affect the performance of electronic components housed
+in the neck. Use Fender-approved polish on the finished surfaces, and wipe other
+metal parts clean using a soft, dry polishing cloth (visit www.fender.com to find products
+to do this with).
+•Tighten the strap buttons. Strap buttons can and do loosen. Untreated, this can cause
+problems, so tighten them with a screwdriver every so often.
+•Avoid extreme weather. Extremes of temperature and humidity can damage the
+Squier by Fender Stratocaster Guitar and Controller as they would
+damage any musical instrument. If such exposure can't be helped, however, loosen the
+strings to minimize harmful effects.
+•Prolong battery life. When the Squier by Fender Stratocaster Guitar and Controller
+is not being used for gameplay, leave its on/off switch on the back in the off position.
+When finished with gameplay, remember to return this switch to the off position. Also, as
+noted earlier, it is not necessary to turn the switch on when playing through a
+guitar amplifier.
+Proper Setup for Your Squier by Fender Stratocaster Guitar and Controller
+Your Squier by Fender Stratocaster Guitar and Controller works as a fully functional electric
+guitar. It's worth noting here that electric guitars are machines, and as such they benefit from
+and occasionally require periodic setup adjustments in order to maintain peak performance.
+Please feel free to familiarize yourself with several of the adjustments listed here regarding
+strings, tuning, truss rod adjustment, bridge adjustments (string height and intonation) and
+pickup height.
+STRINGS
+The Squier by Fender Stratocaster Guitar and Controller is designed for use only with strings of
+.009 to .042 gauge. Heavier strings may damage the instrument. The warranty is void if strings of
+a heavier gauge than .009 to .042 are installed.
+The Squier by Fender Stratocaster Guitar and Controller is designed for use only with nickel-
+plated steel strings. Pure nickel and stainless steel strings will not have good tracking results
+[17]
+[11]
+and should not be used. For optimum tracking results, use only Fender 250 nickel-plated
+--- Page 13 ---
+steel strings, gauges .009 to .042 (part number 073-0250-403). There is no better, faster and
+easier way to reinvigorate the sound of an electric guitar than by simply changing the strings.
+It's easy to tell when strings are old, worn or dirty, because they'll sound dull and lifeless, look
+corroded, and feel rough to the touch. The electrical conductivity of the Squier® by Fender®
+Stratocaster® Guitar and Controller's strings can be compromised when they accumulate
+excessive dirt or wear. You might also find that gameplay can be affected by inaccurate
+tracking, and that some notes will be missed or dropped.
+To ensure top performance from your Squier by Fender Stratocaster Guitar and Controller,
+make sure to change your strings on a regular basis. See your Fender dealer to purchase
+replacement Fender nickel-plated steel strings.
+TUNING
+Tuning the strings of the Squier by Fender Stratocaster Guitar and Controller isn't strictly
+necessary for gameplay, although it is recommended. Tuning is necessary, however, when
+playing it through an amplifier.
+Tuning is easily accomplished using an electronic tuner, which you might want to purchase
+(many are small and inexpensive). Simply plug the Squier by Fender Stratocaster Guitar and
+Controller into an electronic tuner and tune up as you would with any electric guitar. With the
+volume all the way up, pluck an open string or its 12th-fret harmonic to produce the clearest
+tone for the tuner (a harmonic is a chime-like tone produced by lightly touching the string at
+specific points with a fretting hand fingertip and plucking the string with the other hand; the 12th
+fret harmonic is used for tuning). Note that pressing down too hard with the fretting hand will
+"choke" the string and mute the sound. With a little practice, however, the light touch needed
+to sound the harmonic tone is easily developed.
+TRUSS ROD ADJUSTMENT
+The truss rod is the unseen device inside the neck of a guitar that counteracts the bending force
+caused by string tension and maintains proper neck "relief" (curvature). A properly adjusted
+neck will have a moderate amount of relief in order to accommodate the vibration of the
+strings. See diagrams below.
+To measure neck relief, two tools are needed—a capo (a small movable bar placed across
+the fingerboard of a guitar or similar instrument so as to raise the pitch of all the strings
+uniformly) and a set of automotive feeler gauges (.002-.025). The amount of relief is determined
+by fixing the capo to the first fret, fretting the low E string at the last fret and measuring the
+distance from the bottom of the low E string to the top of the eighth fret (the fret wire itself, not
+the fingerboard) using the feeler gauges. This distance should be about .010". Further, when
+sighting down the neck from the body end toward the headstock, you should be able to see
+if the neck is straight or bowed. If there is too much relief or none at all, the truss rod should be
+adjusted.
+Your new Squier by Fender Stratocaster Guitar and Controller has a unique hex nut truss rod
+adjustment mechanism, easily accessible through the small hole in the side of the neck just
+below the 20th fret (see diagram below).
+[12]
+[18]
+--- Page 14 ---
+Truss Rod Adjustment
+If the neck is too concave, insert the 3mm hex wrench supplied with the Squier® by Fender®
+Stratocaster® Guitar and Controller into the hex nut and turn it toward the battery holder,
+clockwise a quarter-turn at a time until the relief is correct. If the neck is too convex, insert
+the 3mm hex wrench into the hex nut and turn it toward the headstock, counter-clockwise a
+quarter-turn at a time until the relief is correct (see diagrams below). You can double check
+your adjustments by measuring the eighth-fret gap again with the feeler gauges and by
+sighting down the neck again.
+Convex Neck Relief
+Concave Neck Relief
+If you meet excessive resistance or if you're simply not comfortable performing these
+measurements and adjustments yourself, you can always take your Squier by Fender
+Stratocaster Guitar and Controller to your Fender dealer for assistance.
+BRIDGE ADJUSTMENTS (STRING HEIGHT AND INTONATION)
+The bridge is where the strings are attached to the body end of the Squier by Fender
+Stratocaster Guitar and Controller, as is the case with all electric guitars. Two important
+adjustments can be made at the bridge—string height and intonation.
+String height is mostly a matter of personal preference, although a distance of about 4/64"
+(1.6 mm) from the bottom of each string to the top of the 17th fret is recommended when the
+instrument is more or less in tune. This distance can be measured using a small ruler with 1/64"
+increments. The individual bridge saddles are easily adjusted up or down using the included
+small hex wrench.
+Please note that string height and pickup height are factory-set for optimal performance; if
+you change string height significantly, pickup height must also be reset (see "Pickup Height"
+below).
+"Intonation" refers to a precise series of measurements regarding proper string length and
+how accurately each string plays in tune along the entire length of the neck. The intonation
+on your Squier by Fender Stratocaster Guitar and Controller is factory-set and, under normal
+[13]
+--- Page 15 ---
+circumstances, shouldn't require adjustment. As strings age, however, their intonation can
+deteriorate—if your Squier by Fender Stratocaster Guitar and Controller doesn't play in tune,
+start by installing a fresh set of strings. If tuning problems persist, please visit www.fender.com/
+support or contact your Fender dealer.
+PICKUP HEIGHT
+The pickup height of your Squier® by Fender® Stratocaster® Guitar and Controller is factory-
+set for maximum sensitivity for Rock Band™ 3 gameplay. As previously noted, significant string
+height changes will require pickup height adjustment.
+To determine and properly adjust pickup height, fret the low E string at the 22nd fret and
+measure from the top of the pickup to the bottom of the string using a small ruler with 1/64"
+increments; the distance should be no more than 1/16" (1.6 mm). Repeat this measurement
+for the high E string. To raise the pickup accordingly, simply turn the two Philips-head screws on
+either side of the pickup clockwise. To lower the pickup, turn the screws counterclockwise.
+[14]
+--- Page 16 ---
+SERVICE
+For service in the United States and Canada, please contact an Authorized Fender Service
+Center, which you can find by calling our Fender Consumer Relations Department
+(480.596.7195), emailing consumerrelations@fender.com or using the "Service Center
+Finder" link on the "Support" section of www.fender.com.
+For service outside the United States and Canada, please contact your authorized dealer or the
+Fender distributor in your country or region—there's a helpful global "International Distributor"
+link on the "Resources" section of www.fender.com.
+SQUIER® by FENDER® STRATOCASTER® GUITAR and CONTROLLER
+1-YEAR LIMITED WARRANTY
+Fender Musical Instruments Corporation ("FMIC") warrants this Squier by Fender Stratocaster
+Guitar and Controller to be free from defects in materials and workmanship if used under
+normal operating conditions for a period of one (1) year from the date of original purchase,
+except that cables and any other included accessory products are warranted for a period
+of ninety (90) days from date of purchase. This warranty applies only to the original retail
+purchaser when this instrument is purchased from an Authorized Squier Dealer and is subject
+to the limitations set forth herein. IMPORTANT: PLEASE RETAIN YOUR ORIGINAL SALES RECEIPT,
+AS IT IS YOUR PROOF OF PURCHASE VALIDATING THIS LIMITED WARRANTY.
+Should a defect in parts or workmanship occur in any component of the Squier by Fender
+Stratocaster Guitar and Controller, return the product to the Authorized Squier Dealer from
+whom it was purchased, with your sales receipt as proof of purchase, during the applicable
+warranty period. Defective products that qualify for coverage under this warranty will be
+repaired or replaced with a like or comparable model (at Fender's discretion), without charge,
+by the Dealer.
+All transportation costs, including freight and insurance charges, associated with obtaining
+warranty service and repairs on Squier by Fender Stratocaster Guitar and Controller
+instruments are the responsibility of the purchaser, as is any service initiated for the purpose of
+customizing adjustments beyond factory specifications. Initial standard setup and adjustment
+of the instrument and its components at the time of purchase are considered normal dealer
+preparation.
+The Squier by Fender Stratocaster Guitar and Controller is designed for use only with strings of
+.009 to .042 gauge. Heavier gauge strings may cause damage to the instrument. This warranty is
+void if strings of a heavier gauge than .009 to .042 are installed.
+[15]
+--- Page 17 ---
+LIMITATIONS AND EXCLUSIONS
+The following items are not covered by this warranty.
+1. Damage to the Squier® by Fender® Stratocaster® Guitar and Controller caused by
+the use of strings heavier than .009 to .042 gauge.
+2. Fret wear, saddle wear, nut wear, strings and batteries.
+3. Setups, adjustments or routine maintenance of any kind.
+4. Damage to finishes or cracks, splitting, or warpage of wood due to changes in
+temperature or humidity, exposure to or contact with sun, fire, moisture, body salts and
+acids of perspiration, gig bags, guitar straps, guitar stands/hangers made from
+vinyl, plastic, rubber or other synthetic materials, any other chemicals or non-FMIC-
+approved polishes.
+5. Damage, corrosion or rusting of any hardware components caused by humidity, salty
+air, or exposure to the moisture, body salts and acids of perspiration.
+6. Any damage to an instrument resulting from customization or modification.
+7. Normal wear and tear on any part of the Squier by Fender Stratocaster Guitar and
+Controller, including jacks, controls, switches, plated surfaces, tuning machines,
+pickguards, hardware etc.
+8. All other damage and deterioration due to normal usage, wear and tear, aging,
+accidents, neglect, abuse, or Acts of Nature.
+9. Any instrument, whose serial number is missing, altered or tampered with in any
+fashion.
+10. Any instrument purchased from anyone other than an Authorized Squier® Dealer.
+11. Instruments that have been serviced by unauthorized persons (any person other than
+an FMIC Certified Technician at an Authorized FMIC Service Center).
+FMIC ASSUMES NO LIABILITY FOR PROPERTY DAMAGE RESULTING FROM FAILURE OF THIS
+PRODUCT NOR ANY LOSS OF INCOME, SATISFACTION, OR DAMAGES ARISING FROM THE LOSS
+OF USE OF SAME DUE TO DEFECTS OR AVAILABILITY OF SAME DURING SERVICE.
+Any warranties implied by law (including warranties of merchantability or fitness) are limited
+to the duration of this express limited warranty. Some states do not allow limitations on how
+long an implied warranty lasts, so the above limitations may not apply to you. Some states do
+not allow the exclusion or limitations of incidental or consequential damages, so the above
+limitation or exclusion may not apply to you. This warranty gives you specific legal rights, and
+you may also have other rights which vary from state to state.
+WARRANTIES STATED HEREIN ARE OFFERED ONLY BY FENDER MUSICAL INSTRUMENTS
+CORPORATION AND NOT HARMONIX MUSIC SYSTEMS, INC. OR MTV NETWORKS, A DIVISION
+OF VIACOM INTERNATIONAL INC. OR THEIR AFFILIATES.
+[16]
+--- Page 18 ---
+NOTE: This warranty applies only to Squier® by Fender® Stratocaster® Guitar and Controller
+and controller instruments purchased and serviced within the U.S.A. and Canada.
+Warranties outside these countries are as defined by the authorized Fender Distributor for
+your country or region, and may vary from the above in terms and/or length.
+This equipment has been tested and found to comply with the limits for a Class B digital device,
+pursuant to Part 15 of the FCC rules. These limits are designed to provide reasonable protection
+against harmful interference in a residential installation. This equipment generates, uses
+and can radiate radio frequency energy and if not used in accordance with the instructions,
+may cause harmful interference to radio communications and there is no guarantee that
+interference will not occur in a particular installation. If this equipment does cause harmful
+interference to radio or television reception, which can be determined by turning the
+equipment off and on, the user is encouraged to try to correct the interference by one or more
+of the following measures: reorient or relocate the receiving antenna, increase the separation
+between the equipment and receiver, connect the equipment into an outlet on a circuit
+different from that of the receiver. Consult the dealer or an experienced radio/TV technician if
+help is needed with interference.
+NOTE: FMIC will not be responsible for unauthorized equipment modifications that could
+violate FCC rules, and/ or void product safety certifications.
+This warranty applies only to Fender instruments manufactured after January 1, 1998, and
+purchased and serviced within the U.S.A. and Canada. Warranties outside these countries are
+as defined by the authorized Fender Distributor for your country or region, and may vary from
+the above in terms and/or length.
+PR1186
+Fender Musical Instruments Corp.
+8860 East Chaparral Road, Suite 100
+Scottsdale, Ariz. 85250-2610 U.S.A.
+Phone: 480.596.9690
+www.fender.com
+© 2010 Fender Musical Instruments Corporation. All rights reserved. Fender®, SQUIER®,
+STRATOCASTER®, and the distinctive headstock design commonly found on those guitars are
+registered trademarks of Fender Musical Instruments Corporation.
+© 2010 Harmonix Music Systems, Inc. All Rights Reserved. Harmonix, Rock Band and all related
+titles and logos are trademarks of Harmonix Music Systems, Inc., an MTV Networks company.
+Rock Band, Rock Band 2, Rock Band 3, Rock Band Network, Green Day: Rock Band, The
+Beatles: Rock Band and other related products and services developed by Harmonix Music
+Systems, Inc. MTV: Music Television, MTV Games and all related titles and logos are trademarks
+of MTV Networks, a division of Viacom International Inc. The Rock Band trademark is used under
+license from Harmonix Music Systems, Inc., an MTV Networks company.
+Mad Catz and the Mad Catz logo registered trademarks of Mad Catz, Inc.
+Microsoft, Xbox, Xbox 360 and the Xbox logos are trademarks of the Microsoft group of
+companies. PlayStation and PS3 are trademarks or registered trademarks of Sony Computer
+Entertainment Inc. (SCEI). Nintendo and Wii are trademarks or registered trademarks of
+Nintendo. This product is not sponsored, endorsed or approved by Microsoft, SCEI or Nintendo.
+[17]
+[17]
+--- Page 19 ---
+All other product names and images are trademarks or registered trademarks of their
+respective owners. Made in China. All rights reserved.
+Product features, appearance and specifications may be subject to change without notice.
+Please retain this information for future reference.
+US Patent No. 5,990,405
+IMPORTADO POR: Instrumentos Musicales Fender S.A. de C.V., Calle Huerta # 132, Col. Carlos
+Pacheco, C.P. 228890, Ensenada, Baja California, Mexico.
+RFC: IMF870506R5A Hecho en Mexico. Servicio de Cliente: 001-8665045875
+[18]
+[18]
+--- Page 20 ---
+P/N 0081883000 Rev. B
+© 2010 FENDER MUSICAL INSTRUMENTS CORP.
