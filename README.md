@@ -1,5 +1,9 @@
 # Squier / RB3 MIDI channel merger
 
+**Language / Idioma:** **English** (this page) · [Español →](docs/README_ES.md)
+
+---
+
 Standalone **Raspberry Pi Pico** + **MicroPython**: merges **MIDI channels 1–6** (Rock Band 3 **Squier** / Pro Guitar, one channel per string) onto **one output channel** so mono-channel synths (e.g. **Moog Mother-32**) respond to **all strings**. **5-pin DIN in** and **DIN out**, optional **pot** on **GP26** to pick output channel **1–16**.
 
 ---
